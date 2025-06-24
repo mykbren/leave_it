@@ -6,10 +6,10 @@ This project adheres to [Semantic Versioning](https://semver.org/) and [Keep a C
 
 ---
 
-## [Unreleased]
+## [0.1.1] - 2025-06-24
 
-### Added
-- Planned or upcoming features will appear here.
+### Fixed
+- Corrected homepage link in gemspec.
 
 ---
 
@@ -18,5 +18,3 @@ This project adheres to [Semantic Versioning](https://semver.org/) and [Keep a C
 ### Added
 - Initial release.
 - CLI tool to parse `Gemfile.lock` and inject pessimistic `~>` version constraints into `Gemfile`.
-
----
