@@ -13,7 +13,7 @@ Gem::Specification.new do |spec|
     CLI tool that scans Gemfile.lock and updates your Gemfile by adding pessimistic (~>) version
     constraints to unversioned gems.
   DESC
-  spec.homepage      = 'https://github.com/mykbren/leave-it'
+  spec.homepage      = 'https://github.com/mykbren/leave_it'
   spec.license       = 'MIT'
   spec.required_ruby_version = '>= 2.7.0'
   spec.metadata['homepage_uri']     = spec.homepage
